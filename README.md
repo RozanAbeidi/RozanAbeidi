@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**RozanAbeidi/RozanAbeidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rozan 
 
-Here are some ideas to get you started:
+I'm a Computer Information Systems student at Mount Royal University in Calgary, graduating in December 2026. I enjoy building full-stack web applications and working with APIs and cloud tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've worked on
+- **Junior Application Developer (Volunteer), Sandhurst Consulting**
+  Contributed to a Microsoft Teams and SharePoint-integrated incident management platform, including a React-based SharePoint dashboard and Microsoft Graph API integrations.
+
+## Tech I use
+- **Languages:** Python, JavaScript, PHP, SQL, HTML, CSS
+- **Frameworks & tools:** React, Git, Microsoft Graph API, SharePoint (SPFx)
+- **Currently learning:** Azure (Functions, DevOps) and generative AI
+
+## What I'm looking for
+Junior and new-grad roles in software development, cloud, and software testing.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rozan-abeidi-0b75a3149)
