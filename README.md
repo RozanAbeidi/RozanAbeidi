@@ -13,6 +13,6 @@ I'm a Computer Information Systems student at Mount Royal University in Calgary,
 - **Currently learning:** Azure (Functions, DevOps) and generative AI
 
 ## What I'm looking for
-new-grad roles in software development, cloud, and software testing.
+New-grad and junior roles in software development, cloud, and software testing.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rozan-abeidi-0b75a3149)
